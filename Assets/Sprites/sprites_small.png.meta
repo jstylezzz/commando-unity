@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 39314fb414c940c4291f138e3685a4c5
+timeCreated: 1460104796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerUp
+    21300002: playerUp2
+    21300004: playerUp3
+    21300006: playerUpRight
+    21300008: playerUpRight2
+    21300010: playerUpRight3
+    21300012: playerRight
+    21300014: playerRight2
+    21300016: playerRight3
+    21300018: playerDownRight
+    21300020: playerDownRight2
+    21300022: playerDownRight3
+    21300024: playerDown
+    21300026: playerDown2
+    21300028: playerDown3
+    21300030: playerDownLeft
+    21300032: playerDownLeft2
+    21300034: playerDownLeft3
+    21300036: playerLeft
+    21300038: playerLeft2
+    21300040: playerLeft3
+    21300042: playerUpLeft
+    21300044: playerUpLeft2
+    21300046: playerUpLeft3
+    21300048: playerDeath
+    21300050: playerDeath2
+    21300052: playerDeath3
+    21300054: playerDeath4
+    21300056: sprites_small_27
+    21300058: sprites_small_28
+    21300060: sprites_small_29
+    21300062: sprites_small_30
+    21300064: sprites_small_31
+    21300066: enemyUp
+    21300068: enemyUp2
+    21300070: enemyUp3
+    21300072: enemyUpRight
+    21300074: enemyUpRight2
+    21300076: enemyUpRight3
+    21300078: enemyRight
+    21300080: enemyRight2
+    21300082: enemyRight3
+    21300084: enemyDownRight
+    21300086: enemyDowRight2
+    21300088: enemyDownRight3
+    21300090: enemyDown
+    21300092: enemyDown2
+    21300094: enemyDown3
+    21300096: enemyDownLeft
+    21300098: enemyDownLeft2
+    21300100: enemyDownLeft3
+    21300102: enemyLeft
+    21300104: enemyLeft2
+    21300106: enemyLeft3
+    21300108: enemyUpLeft
+    21300110: enemyUpLeft2
+    21300112: enemyUpLeft3
+    21300114: sprites_small_24
+    21300116: sprites_small_25
+    21300118: sprites_small_26
+    21300120: sprites_small_32
+    21300122: sprites_small_33
+    21300124: sprites_small_34
+    21300126: enemyDeath3
+    21300128: enemyDeath2
+    21300130: enemyDeath1
+    21300132: sprites_small_38
+    21300134: sprites_small_39
+    21300136: sprites_small_40
+    21300138: sprites_small_41
+    21300140: sprites_small_42
+    21300142: sprites_small_43
+    21300144: sprites_small_44
+    21300146: sprites_small_45
+    21300148: bullet
+    21300150: cannonBall
+    21300152: bulletExplosion
+    21300154: bulletExplosion2
+    21300156: bulletExplosion3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerUp
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUp2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUp3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 193
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUpRight
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUpRight2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUpRight3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 193
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerRight
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerRight2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 193
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerRight3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDownRight
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDownRight2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDownRight3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDown
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDown2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 192
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDown3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDownLeft
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 169
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDownLeft2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 169
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDownLeft3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 169
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerLeft
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 169
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerLeft2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 169
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerLeft3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 169
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUpLeft
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 169
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUpLeft2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerUpLeft3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 169
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDeath
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 169
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDeath2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 169
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDeath3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 180
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerDeath4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 180
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 145
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 146
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 145
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUp
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUp2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUp3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 121
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUpRight
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUpRight2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 121
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUpRight3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 121
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyRight
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 121
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyRight2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 121
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyRight3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 121
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDownRight
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 121
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDowRight2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 121
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDownRight3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 121
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDown
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 120
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDown2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDown3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 120
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDownLeft
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDownLeft2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 97
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDownLeft3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyLeft
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 97
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyLeft2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyLeft3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 97
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUpLeft
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUpLeft2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyUpLeft3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 98
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 98
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 97
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_34
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 97
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDeath3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDeath2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 83
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemyDeath1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 73
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sprites_small_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 85
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bullet
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 10
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cannonBall
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bulletExplosion
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 7
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bulletExplosion2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bulletExplosion3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
