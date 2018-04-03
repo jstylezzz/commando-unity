@@ -30,6 +30,6 @@ public class GameFinal : MonoBehaviour
     private IEnumerator EndGame()
     {
         yield return new WaitForSeconds(3F);
-        SceneManager.LoadScene("mainMenu");
+		LevelsManager.Instance.NextLevel();
     }
 }
