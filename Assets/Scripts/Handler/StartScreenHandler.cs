@@ -56,7 +56,7 @@ public class StartScreenHandler : MonoBehaviour
             ChangeSize();
             ChangePos();
             StartCoroutine(ChangeTextColor());
-            if (Input.GetKeyDown(KeyCode.Space)) SceneManager.LoadScene("levelOne");
+            if (Input.GetKeyDown(KeyCode.Space)) SceneManager.LoadScene("LevelOne");
         }
 	}
 
